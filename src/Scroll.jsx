@@ -27,7 +27,7 @@ const Scroll = () => {
           start: "top 15%",
           end: "bottom 30%",
           markers: true,
-          toggleActions: "play reset play reset",
+          toggleActions: "play reset play reverse",
           // prpr
         },
       }
@@ -42,7 +42,7 @@ const Scroll = () => {
           start: "top 20%",
           end: "bottom 30%",
           markers: true,
-          toggleActions: "play reset play reset",
+          toggleActions: "play reset play reverse",
           // prpr
         },
       }
